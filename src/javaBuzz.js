@@ -21,4 +21,5 @@ Javabuzz.prototype.isDivisibleBy = function(number) {
   } else if (this.isDivisibleByThree(number)) {
     return "java"
   }
+
 };
